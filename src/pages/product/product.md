@@ -2,8 +2,7 @@
 templateKey: product-page
 path: /products
 title: Our Coffee
-image: >-
-  /img/1b5f46c97973dab91d5b86d136518cf8ca8e71cc-workshop_process_1.683d7372df080060a40aa81949a2a750120280f9.png
+image: /img/16708679_1275319705866751_2926631821896377008_n.jpg
 heading: What we offered before we failed haha
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
